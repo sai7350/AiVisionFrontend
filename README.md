@@ -1,4 +1,5 @@
 AI-powered Live OCR & Text-to-Speech System
+
 🚀 Overview
 
 This project implements an AI-powered real-time vision-to-speech system that captures webcam input, detects motion, generates natural language captions for scenes, and converts them into speech using multiple speaker voices.
